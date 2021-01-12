@@ -31,10 +31,7 @@ lorsqu'on click sur celui ci.
 
  Exemples addClass() :
 
- $("button").click(function(){
-     $("h1, h2, p").addClass("blue");
-     $("div").addClass("important");
- });
+ 
 
  Lors du click sur le bouton, on ajoute la classe "blue" aux élémen h1,h2 et p , on ajoute également la classe "important"
  aux éléments div
